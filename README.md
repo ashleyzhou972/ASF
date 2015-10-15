@@ -1,2 +1,2 @@
 # ASF
-# ASF 16s metagenomics abundanc data
+# ASF 16s metagenomics abundance data
